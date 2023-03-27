@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.img {
+  background: url("https://images6.alphacoders.com/368/368872.jpg") no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  height: 1000px;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.img_fond1 {
+  background: url("https://images6.alphacoders.com/368/368872.jpg") no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  height: 1000px;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.img_fond2 {
+  background: url("http://topwalls.net/wp-content/uploads/2012/05/autumn-fall-leaves-wood-light.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 1070px;
+  position: relative;
+  z-index: 3;
+}
+
+.img_fond3 {
+  background: url("http://wallpaperscraft.com/image/61501/2048x1152.jpg?orig=1") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 1000px;
+  position: relative;
+  z-index: 3;
+}
+
+.bloc {
+  background: #278948;
+  position: relative;
+  margin-top: 200px;
+  padding: 100px;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  z-index: 3;
+  opacity: 0.9;
+}
+.bloc:hover{
+  background-color:rgb(14, 14, 235);
+
+}
+.bloc2:hover{
+  background-color:blue
+}
+
+.bloc2 {
+  background: #278948;
+  position: relative;
+  margin-top: 200px;
+  padding: 100px;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  opacity: 0.9;
+  z-index: 3;
+}
+
+.bloc3 {
+  background: #fff;
+  position: relative;
+  margin-top: 200px;
+  padding: 100px;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  opacity: 0.9;
+  z-index: 3;
+}
+.bloc3:hover{
+  background-color: rgb(47, 57, 255);
+}
+
+.mr_top_null {
+  margin-top: 0;
+}
